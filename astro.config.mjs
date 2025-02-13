@@ -25,7 +25,7 @@ export default defineConfig({
 				{
 					label: 'Guides',
 					items: [
-						{ label: 'Keybinds & Commands', link: 'guides/keybindscmds' }
+						{ label: 'Keybinds & Commands', link: 'guides/keybinds' }
 					]
 				}
 			],
