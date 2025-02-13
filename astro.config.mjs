@@ -6,23 +6,30 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: {
-				github: 'https://github.com/withastro/starlight',
-			},
+			title: 'Fearless Roleplay Docs',
+			lastUpdated: true,
 			sidebar: [
+				{
+					label: 'Welcome',
+					items: [
+						{ label: 'Introduction', link: 'welcome/introduction' }
+					]
+				},
+				{
+					label: 'Information',
+					items: [
+						{ label: 'Terms of Service', link: 'information/tos' },
+						{ label: 'Rules & Guidelines', link: 'information/rules' }
+					]
+				},
 				{
 					label: 'Guides',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
+						{ label: 'Keybinds & Commands', link: 'guides/keybindscmds' }
+					]
+				}
 			],
+			pagination: false
 		}),
 	],
 });
