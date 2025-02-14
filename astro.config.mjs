@@ -25,7 +25,8 @@ export default defineConfig({
 				{
 					label: 'Guides',
 					items: [
-						{ label: 'Keybinds & Commands', link: 'guides/keybinds' }
+						{ label: 'Keybinds & Commands', link: 'guides/keybinds' },
+						{ label: 'wLauncher Installation', link: 'guides/launcher' }
 					]
 				}
 			],

@@ -1,6 +1,6 @@
 ---
 title: Rules & Guidelines
-lastUpdated: 2025-02-13
+lastUpdated: 2025-02-14
 ---
 
 ## **Welcome to Fearless Roleplay!**
@@ -66,6 +66,7 @@ These rules apply to all members and are designed to keep the community fun and 
 ### **10. Community & Staff Interaction**
 - **Follow staff instructions** at all times.
 - Do not spam staff members or abuse support channels.
+- **Avoid pinging staff unless it's absolutely necessary**, such as when someone is causing significant issues like spawning large numbers of vehicles or other forms of griefing.
 - If you have an issue, open a ticket and **keep all discussions within the ticket**.
 
 ### **11. Advertising & Self-Promotion**

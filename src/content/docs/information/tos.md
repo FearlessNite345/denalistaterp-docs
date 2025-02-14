@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-lastUpdated: 2025-02-13
+lastUpdated: 2025-02-14
 ---
 
 #### **Welcome to Fearless Roleplay!**
@@ -37,9 +37,9 @@ When you’re in our world, you agree to:
 - Any **custom scripts, textures, or assets** used in FRP remain the property of their respective creators.
 - Players **may not distribute, sell, or modify server content** without explicit permission from FRP staff.
 
-#### **A Few Legal Notes**
-- **Fearless Roleplay is a community-driven project and is not affiliated with Rockstar Games, Take-Two Interactive, or FiveM.**
-- **We are not responsible for any technical issues, lost data, or in-game transactions.** Play at your own risk.
+#### **Important Legal Information**
+- **Fearless Roleplay is a community-centric initiative, unaffiliated with Rockstar Games, Take-Two Interactive, or FiveM.**
+- **We disclaim responsibility for any technical difficulties or data loss.** Engage at your own discretion. 
 
 #### **Staying Up to Date**
 - Our **Terms of Service may be updated at any time.** It’s your responsibility to check for changes.
