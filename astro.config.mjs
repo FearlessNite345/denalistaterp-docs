@@ -22,12 +22,12 @@ export default defineConfig({
 						{ label: 'Rules & Guidelines', link: 'information/rules' }
 					]
 				},
-				{
+				/* {
 					label: 'Undead Server Information',
 					items: [
 						{ label: 'Undead Rules', link: 'undead/undead_rules' }
 					]
-				},
+				},*/
 				{
 					label: 'Guides',
 					items: [
@@ -38,7 +38,6 @@ export default defineConfig({
 				{
 					label: 'SOPs',
 					items: [
-						{ label: 'Civillian', link: 'sops/civ' },
 						{ label: 'LEO', link: 'sops/leo' }
 					]
 				}
