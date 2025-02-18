@@ -1,6 +1,6 @@
 ---
 title: Keybinds & Commands
-lastUpdated: 2025-02-14
+lastUpdated: 2025-02-18
 ---
 
 | **Keyboard Key**   |   | **Description**               |
@@ -11,7 +11,6 @@ lastUpdated: 2025-02-14
 | **`F9`**           |   | Vehicle Menu                  |
 | **`F10`**          |   | Vehicle Damage Menu           |
 | **`F11`**          |   | Change Proximity Chat Distance|
-| **`F12`**          |   | Steam Screenshot              |
 | **`M`**            |   | vMenu                         |
 | **`N`**            |   | PTT (Voice Chat)              |
 | **`T`**            |   | Text Chat                     |
@@ -27,3 +26,4 @@ lastUpdated: 2025-02-14
 | **`/cadrefresh`**   |   | Refresh CAD Interface                             |
 | **`/manageme`**     |   | Allows you to create/clone MP characters          |
 | **`/mycar`**        |   | Set your car as yours, enabling locking functions |
+| **`/radio`**        |   | Open the radio |
