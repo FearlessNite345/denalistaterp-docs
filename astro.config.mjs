@@ -22,17 +22,16 @@ export default defineConfig({
 						{ label: 'Rules & Guidelines', link: 'information/rules' }
 					]
 				},
-				/* {
+				{
 					label: 'Undead Server Information',
 					items: [
 						{ label: 'Undead Rules', link: 'undead/undead_rules' }
 					]
-				},*/
+				},
 				{
 					label: 'Guides',
 					items: [
-						{ label: 'Keybinds & Commands', link: 'guides/keybinds' },
-						{ label: 'wLauncher Installation', link: 'guides/launcher' }
+						{ label: 'Keybinds & Commands', link: 'guides/keybinds' }
 					]
 				},
 				{

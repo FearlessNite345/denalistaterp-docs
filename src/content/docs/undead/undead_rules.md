@@ -1,6 +1,6 @@
 ---
-title: Undead Rules
-lastUpdated: 2025-02-18
+title: Fearless Undead Rules
+lastUpdated: 2025-02-24
 ---
 
-# COMING SOON
+# COMSING SOON
