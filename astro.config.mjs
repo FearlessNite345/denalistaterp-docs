@@ -22,17 +22,20 @@ export default defineConfig({
         },
         {
           label: "Undead Server Information",
-          items: [{ label: "Undead Rules", link: "undead/undead_rules" }],
+          items: [
+            { label: "Undead Rules", link: "undead/undead_rules" },
+          ],
         },
         {
           label: "Guides",
-          items: [{ label: "Keybinds & Commands", link: "guides/keybinds" }],
+          items: [
+            { label: "Keybinds & Commands", link: "guides/keybinds" },
+            { label: "wLaucnher Installation", link: "guides/wlauncher" },
+          ],
         },
         {
           label: "SOPs",
-          items: [
-            { label: "Law Enforcement", link: "sops/leo" }
-          ],
+          items: [{ label: "Law Enforcement", link: "sops/leo" }],
         },
       ],
       pagination: false,

@@ -25,7 +25,7 @@ These rules apply to all members and are designed to keep the community fun and 
   - You're free to eliminate others and claim their belongings.
   - Engage in robberies by holding players at gunpoint, giving them the chance to drop their loot in exchange for survival.
 - **Survival Priority:**
-  - Staying alive is paramount, given the significant consequences and setbacks associated with death.\*\*
+  - Staying alive is paramount, given the significant consequences and setbacks associated with death.
 
 ### **3. Player vs. Player (PvP) Guidelines**
 

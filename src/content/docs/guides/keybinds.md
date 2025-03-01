@@ -6,6 +6,8 @@ lastUpdated: 2025-02-18
 | **Keyboard Key** |     | **Description**                |
 | ---------------- | --- | ------------------------------ |
 | **`F1`** (hold)  |     | LEO Menu                       |
+| **`F3`**         |     | EUP Menu for LEO               |
+| **`F4`**         |     | Emote Menu                     |
 | **`F7`**         |     | Open Phone                     |
 | **`F8`**         |     | Open Client Console            |
 | **`F9`**         |     | Vehicle Menu                   |
