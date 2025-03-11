@@ -1,6 +1,6 @@
 ---
 title: Rules & Guidelines
-lastUpdated: 2025-02-14
+lastUpdated: 2025-03-10
 ---
 
 ## **Welcome to Fearless Roleplay!**
@@ -85,6 +85,15 @@ These rules apply to all members and are designed to keep the community fun and 
 
 - **Advertising other servers, websites, or services** without staff approval is not allowed.
 - Violations of advertising rules may result in an **immediate ban**.
+
+### **12. No Political Discussions**  
+- Discussions or debates about **politics, political movements, or ideologies** are **not allowed** in any chat channels or RP scenarios.  
+- This includes but is not limited to:  
+  - **Elections and political parties**  
+  - **Social movements** such as **Pride, LGBTQ+, Black Lives Matter (BLM), and others**  
+  - **Activism-related topics** or any form of political protest  
+- **RP or parody politics** are allowed **as long as it is not meant to offend anyone**. For example, characters like **Governor Rump** can be part of roleplay, but must remain respectful and in the spirit of fun, without targeting or offending others.  
+- Keep all conversations focused on roleplay and community engagement outside of these designated areas.  
 
 ---
 
