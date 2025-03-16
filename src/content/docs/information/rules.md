@@ -1,6 +1,6 @@
 ---
 title: Rules & Guidelines
-lastUpdated: 2025-03-10
+lastUpdated: 2025-03-15
 ---
 
 ## **Welcome to Fearless Roleplay!**
@@ -94,6 +94,18 @@ These rules apply to all members and are designed to keep the community fun and 
   - **Activism-related topics** or any form of political protest  
 - **RP or parody politics** are allowed **as long as it is not meant to offend anyone**. For example, characters like **Governor Rump** can be part of roleplay, but must remain respectful and in the spirit of fun, without targeting or offending others.  
 - Keep all conversations focused on roleplay and community engagement outside of these designated areas.  
+
+### **13. Self-Promotion Rules**  
+
+- **Self-promo channels are for sharing your own content**—whether it’s FRP-related or content from other games.  
+- **Advertising other FiveM servers is strictly prohibited.** Any attempts to promote other RP servers will result in a **warning**. Continued violations will lead to **removal from the community**.  
+- You may post:  
+  - **Videos, streams, or screenshots** showcasing your time in FRP.  
+  - **Gaming content** from other games, as long as it’s not related to another FiveM server.  
+- Do not spam or excessively post self-promotional content. Keep it reasonable and engaging for the community.  
+- **Staff reserves the right to remove any post that does not align with these rules.**  
+
+By using the self-promo channels, you agree to follow these guidelines.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Terms of Service
-lastUpdated: 2025-02-14
+lastUpdated: 2025-03-15
 ---
 
 #### **Welcome to Fearless Roleplay!**
@@ -43,6 +43,16 @@ When you’re in our world, you agree to:
 
 - Any **custom scripts, textures, or assets** used in FRP remain the property of their respective creators.
 - Players **may not distribute, sell, or modify server content** without explicit permission from FRP staff.
+
+#### **Use of FRP Logos and Branding**  
+
+- **FRP logos, branding, and assets** are the property of Fearless Roleplay and may only be used in accordance with these terms.  
+- **Modifying FRP logos** in any way without explicit permission from **Joshua L.** is prohibited.  
+- **Logos may only be used for non-commercial, community-related content**, such as personal videos, streams, or artwork that positively represents FRP.  
+- **Use of FRP branding for commercial purposes** (e.g., selling merchandise) requires written approval from **Joshua L.**  
+- **Misuse of FRP logos or branding** in a way that misrepresents, defames, or harms the community will result in disciplinary action.  
+
+By using FRP logos, you acknowledge that you are not an official representative of FRP staff unless explicitly authorized.
 
 #### **Important Legal Information**
 
