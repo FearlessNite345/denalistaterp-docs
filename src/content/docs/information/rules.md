@@ -1,6 +1,6 @@
 ---
 title: Rules & Guidelines
-lastUpdated: 2025-03-15
+lastUpdated: 2025-03-27
 ---
 
 ## **Welcome to Fearless Roleplay!**
@@ -81,12 +81,7 @@ These rules apply to all members and are designed to keep the community fun and 
 - **Avoid pinging staff unless it's absolutely necessary**, such as when someone is causing significant issues like spawning large numbers of vehicles or other forms of griefing.
 - If you have an issue, open a ticket and **keep all discussions within the ticket**.
 
-### **11. Advertising & Self-Promotion**
-
-- **Advertising other servers, websites, or services** without staff approval is not allowed.
-- Violations of advertising rules may result in an **immediate ban**.
-
-### **12. No Political Discussions**  
+### **11. No Political Discussions**  
 - Discussions or debates about **politics, political movements, or ideologies** are **not allowed** in any chat channels or RP scenarios.  
 - This includes but is not limited to:  
   - **Elections and political parties**  
@@ -95,7 +90,7 @@ These rules apply to all members and are designed to keep the community fun and 
 - **RP or parody politics** are allowed **as long as it is not meant to offend anyone**. For example, characters like **Governor Rump** can be part of roleplay, but must remain respectful and in the spirit of fun, without targeting or offending others.  
 - Keep all conversations focused on roleplay and community engagement outside of these designated areas.  
 
-### **13. Self-Promotion Rules**  
+### **12. Self-Promotion Rules**  
 
 - **Self-promo channels are for sharing your own content**—whether it’s FRP-related or content from other games.  
 - **Advertising other FiveM servers is strictly prohibited.** Any attempts to promote other RP servers will result in a **warning**. Continued violations will lead to **removal from the community**.  
