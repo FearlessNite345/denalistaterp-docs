@@ -1,67 +1,104 @@
 ---
-title: Terms of Service
-lastUpdated: 2025-03-15
+title: Community Code & Terms
+lastUpdated: 2025-05-05
 ---
 
-#### **Welcome to Fearless Roleplay!**
+> **Effective as of March 15, 2025**
 
-By stepping into the world of **Fearless Roleplay (FRP) FiveM server**, you agree to uphold our community standards and abide by these Terms of Service. If these terms don’t align with your expectations, we encourage you to seek another community. **ANY violation of these terms will result in removal from the server.**
+---
 
-#### **Who Can Join?**
+## Welcome to FRP
 
-- You must be **18 years or older** to be part of FRP. By joining, you confirm that you meet this requirement.
-- **English proficiency is required.** Effective communication is key to immersive roleplay.
-- A **high-quality microphone** is a must—clear audio enhances the experience for everyone.
-- **Headphones are strongly recommended** to prevent audio feedback and disruptions.
-- **Mute/Deaf players are welcome!** We offer an in-game ASL script to support accessibility. If you require this feature, be sure to mention it in your application so we can make the necessary accommodations.
+By joining **Fearless Roleplay**, you’re entering an immersive, mature community driven by storytelling, fairness, and respect. These terms are simple: follow them, or you’ll be removed. No second chances for rulebreakers.
 
-#### **How We Play**
+If this isn’t for you — no hard feelings. This isn’t your average server.
 
-When you’re in our world, you agree to:
+---
 
-- **Follow all server rules and guidelines**—they exist to keep the experience enjoyable for all.
-- **Respect everyone.** Harassment, abuse, or discrimination will not be tolerated.
-- **Play fair.** Exploiting bugs, glitches, or using cheats is strictly prohibited.
-- **Keep it legal.** Any form of illegal activity within the server will result in removal.
+## Entry Requirements
 
-#### **Roleplay Standards**
+To be part of FRP, you must:
 
-- **Immerse yourself in the roleplay.** Keep interactions realistic and engaging.
-- **Breaking character is a no-go.** OOC (Out of Character) discussions should happen outside the game.
-- **Metagaming is off-limits.** Using out-of-character knowledge to gain an in-game advantage is not allowed.
-- **Powergaming (ForceRP) is prohibited.** You cannot force actions onto others without their consent.
-- **No RDM (Random Deathmatch) or VDM (Vehicle Deathmatch).** Kill interactions should always be justified through roleplay.
-- **The full list of roleplay rules is available on our documentation site.**
+- Be **18+** — no exceptions.
+- Speak and understand **English** fluently.
+- Use a **clear microphone** — bad audio kills immersion.
+- Wear **headphones** — echo and feedback ruin scenes.
+- Have accessibility needs? **Mute/deaf players are welcome.**  
+  Our custom **ASL script** is available. Mention it during your app.
 
-#### **Breaking the Rules? Here’s What Happens**
+---
 
-- **Violations will result in consequences,** including warnings, temporary suspensions, or permanent bans.
-- **Our staff’s decisions are final.** If you believe you were unfairly penalized, you may submit an appeal through the appropriate channels.
-- **Severe or repeated violations will lead to immediate and irreversible removal from the server.**
+## Roleplay Guidelines
 
-#### **Protecting Our Content**
+We do serious RP. That means:
 
-- Any **custom scripts, textures, or assets** used in FRP remain the property of their respective creators.
-- Players **may not distribute, sell, or modify server content** without explicit permission from FRP staff.
+- **Stay in character.** Take OOC to OOC.
+- **Respect the scene.** Don’t powergame or metagame.
+- **No RDM or VDM.** Every action must be justified IC.
+- Follow our **full RP rulebook** (linked in the docs).
 
-#### **Use of FRP Logos and Branding**  
+---
 
-- **FRP logos, branding, and assets** are the property of Fearless Roleplay and may only be used in accordance with these terms.  
-- **Modifying FRP logos** in any way without explicit permission from **Joshua L.** is prohibited.  
-- **Logos may only be used for non-commercial, community-related content**, such as personal videos, streams, or artwork that positively represents FRP.  
-- **Use of FRP branding for commercial purposes** (e.g., selling merchandise) requires written approval from **Joshua L.**  
-- **Misuse of FRP logos or branding** in a way that misrepresents, defames, or harms the community will result in disciplinary action.  
+## Server Rules
 
-By using FRP logos, you acknowledge that you are not an official representative of FRP staff unless explicitly authorized.
+- **Follow all FRP rules and staff instructions.**
+- **Harassment, racism, and hate speech = immediate ban.**
+- **No exploits, cheating, or glitch abuse.**
+- **Illegal RP stays legal OOC.** No real-world crimes or actions.
 
-#### **Important Legal Information**
+---
 
-- **Fearless Roleplay is a community-centric initiative, unaffiliated with Rockstar Games, Take-Two Interactive, or FiveM.**
-- **We disclaim responsibility for any technical difficulties or data loss.** Engage at your own discretion.
+## Enforcement and Appeals
 
-#### **Staying Up to Date**
+- **Break the rules? You’ll face consequences.**  
+  That could mean a warning, kick, suspension, or permanent ban.
+- **Staff decisions are final.**  
+  Think it was unfair? Use the appeal form — not DMs.
+- Repeated or severe violations = **non-negotiable removal**.
 
-- Our **Terms of Service may be updated at any time.** It’s your responsibility to check for changes.
-- Your continued participation in FRP means **you accept any updates we make.**
+---
 
-By joining **Fearless Roleplay**, you agree to these terms and become part of an immersive and engaging roleplay community. See you in the city! 🚀
+## Our Content and Creations
+
+- All **scripts, textures, assets** belong to their creators.
+- **No redistribution, resale, or unauthorized edits.**
+- Want to use something? Ask first.
+
+---
+
+## Branding and Logo Use
+
+- **FRP logos & branding are protected.**
+- You **may not edit or reuse** our logos without approval.
+- OK uses:
+  - Stream overlays
+  - Personal videos
+  - Fan art that uplifts FRP
+- Not OK:
+  - Commercial sales
+  - Impersonation
+  - Anything that misrepresents FRP
+- For **official use**, get written permission from **Joshua L.**
+
+---
+
+## Legal Disclaimers
+
+- **FRP is not affiliated** with Rockstar Games, Take-Two Interactive, or FiveM.
+- We are a community project — **use at your own risk**.
+- We’re not responsible for **data loss or technical issues**.
+
+---
+
+## TOS Updates
+
+- These terms **can change at any time**.
+- By continuing to play, **you accept all changes** moving forward.
+
+---
+
+## Final Word
+
+By playing on FRP, you’re part of something bigger — a curated, story-driven roleplay experience for adults who care about quality. Respect the space. Respect each other.
+
+See you in the city.
