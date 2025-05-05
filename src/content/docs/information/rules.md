@@ -1,6 +1,6 @@
 ---
 title: Rules & Guidelines
-lastUpdated: 2025-03-27
+lastUpdated: 2025-04-13
 ---
 
 ## **Welcome to Fearless Roleplay!**
@@ -100,7 +100,7 @@ These rules apply to all members and are designed to keep the community fun and 
 - Do not spam or excessively post self-promotional content. Keep it reasonable and engaging for the community.  
 - **Staff reserves the right to remove any post that does not align with these rules.**  
 
-By using the self-promo channels, you agree to follow these guidelines.
+**By using the self-promo channels, you agree to follow these guidelines.**
 
 ---
 

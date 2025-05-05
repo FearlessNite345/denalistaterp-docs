@@ -37,6 +37,10 @@ export default defineConfig({
           label: "SOPs",
           items: [{ label: "Law Enforcement", link: "sops/leo" }],
         },
+        {
+          label: "Penal Code",
+          items: [{ label: "Penal Codes", link: "penal_code/penal_codes" }],
+        },
       ],
       pagination: false,
     }),

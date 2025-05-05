@@ -1,6 +1,6 @@
 ---
 title: Keybinds & Commands
-lastUpdated: 2025-02-18
+lastUpdated: 2025-04-13
 ---
 
 | **Keyboard Key** |     | **Description**                |
@@ -19,13 +19,18 @@ lastUpdated: 2025-02-18
 | **`Z`**          |     | Show Money                     |
 | **`CTRL Z`**     |     | Put your seatbelt on           |
 
-| **Command**              |     | **Description**                                   |
-| ------------------------ | --- | ------------------------------------------------- |
-| **`/showcad`**           |     | Display CAD Interface                             |
-| **`/repair`**            |     | Repair Vehicle                                    |
-| **`/heal`**              |     | Heal Player                                       |
-| **`/asl`** (coming soon) |     | ASL Functionality                                 |
-| **`/cadrefresh`**        |     | Refresh CAD Interface                             |
-| **`/manageme`**          |     | Allows you to create/clone MP characters          |
-| **`/mycar`**             |     | Set your car as yours, enabling locking functions |
-| **`/radio`**             |     | Open the radio                                    |
+| **Command**            |     | **Description**                                                             |
+| ---------------------- | --- | --------------------------------------------------------------------------- |
+| **`/showcad`**         |     | Display CAD Interface                                                       |
+| **`/repair`**          |     | Repair Vehicle                                                              |
+| **`/heal`**            |     | Heal Player                                                                 |
+| **`/asl`**             |     | ASL Functionality                                                           |
+| **`/cadrefresh`**      |     | Refresh CAD Interface                                                       |
+| **`/manageme`**        |     | Allows you to create/clone MP characters                                    |
+| **`/mycar`**           |     | Set your car as yours, enabling locking functions                           |
+| **`/radio`**           |     | Open the radio                                                              |
+| **`/loadout`**         |     | Will give you a standard issue LEO loadout                                  |
+| **`/unrack [WEAPON]`** |     | Will allow you to unrack a weapon from a police vehicle                     |
+| **`/rack [WEAPON]`**   |     | Will allow you to rack a weapon from a police vehicle                       |
+| **`/timingtool`**      |     | Will give you a timing tablet for use with geting info for a vehicles speed |
+| **`/closetimingtool`** |     | Will close the above tablet                                                 |
