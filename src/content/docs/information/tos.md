@@ -1,9 +1,9 @@
 ---
 title: Community Code & Terms
-lastUpdated: 2025-05-05
+lastUpdated: 2025-05-07
 ---
 
-> **Effective as of March 15, 2025**
+> **Effective as of May 7th, 2025**
 
 ---
 
@@ -24,7 +24,7 @@ To be part of FRP, you must:
 - Use a **clear microphone** — bad audio kills immersion.
 - Wear **headphones** — echo and feedback ruin scenes.
 - Have accessibility needs? **Mute/deaf players are welcome.**  
-  Our custom **ASL script** is available. Mention it during your app.
+  Our **ASL script** by **cDev** is available.
 
 ---
 
@@ -32,7 +32,7 @@ To be part of FRP, you must:
 
 We do serious RP. That means:
 
-- **Stay in character.** Take OOC to OOC.
+- **Stay in character.** Take OOC to OOC Channels.
 - **Respect the scene.** Don’t powergame or metagame.
 - **No RDM or VDM.** Every action must be justified IC.
 - Follow our **full RP rulebook** (linked in the docs).
