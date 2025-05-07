@@ -1,6 +1,6 @@
 ---
 title: Server Rules & Standards
-lastUpdated: 2025-05-05
+lastUpdated: 2025-05-07
 ---
 
 Welcome to **Fearless Roleplay (FRP)** — a community focused on realism, immersion, and respect. These rules exist to uphold the quality of roleplay and ensure every member has a fair and enjoyable experience. By playing on FRP, you agree to follow them.
@@ -80,6 +80,7 @@ The following types of content are strictly banned:
 - Follow staff instructions at all times.
 - Do not spam or harass staff. Use tickets for support requests.
 - Only ping staff in emergencies (e.g., griefing, major disruptions).
+- You may ping staff if you want to do a RP scene with them.
 
 ### Political Content
 

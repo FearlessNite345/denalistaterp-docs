@@ -34,3 +34,4 @@ lastUpdated: 2025-04-13
 | **`/rack [WEAPON]`**   |     | Will allow you to rack a weapon from a police vehicle                       |
 | **`/timingtool`**      |     | Will give you a timing tablet for use with geting info for a vehicles speed |
 | **`/closetimingtool`** |     | Will close the above tablet                                                 |
+| **`/interiormanager`** |     | Will open the Interior Manager to change IPLs/Entity Sets                   |
