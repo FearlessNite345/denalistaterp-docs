@@ -66,36 +66,6 @@ export default defineConfig({
           label: "Penal Code",
           items: [{ label: "Penal Code", link: "penal_code/penal_code", badge: "Coming Soon" }],
         },
-        /* {
-          label: "Welcome",
-          items: [{ label: "Introduction", link: "welcome/introduction" }],
-        },
-        {
-          label: "Roleplay Server Information",
-          items: [
-            { label: "Terms of Service", link: "information/tos" },
-            { label: "Rules & Guidelines", link: "information/rules" },
-          ],
-        },
-        {
-          label: "Undead Server Information",
-          items: [{ label: "Undead Rules", link: "undead/undead_rules" }],
-        },
-        {
-          label: "Penal Code",
-          items: [{ label: "Penal Code", link: "penal_code/penal_code" }],
-        },
-        {
-          label: "Guides",
-          items: [
-            { label: "Keybinds & Commands", link: "guides/keybinds" },
-            { label: "wLaucnher Installation", link: "guides/wlauncher" },
-          ],
-        },
-        {
-          label: "SOPs",
-          items: [{ label: "Law Enforcement", link: "sops/leo" }],
-        }, */
       ],
       pagination: false,
     }),
