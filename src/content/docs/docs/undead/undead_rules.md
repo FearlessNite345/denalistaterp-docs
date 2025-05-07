@@ -1,5 +1,5 @@
 ---
-title: Fearless Undead Rules & Guidelines
+title: Rules & Guidelines
 lastUpdated: 2025-02-24
 ---
 
