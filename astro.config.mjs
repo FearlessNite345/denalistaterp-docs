@@ -4,6 +4,7 @@ import starlight from "@astrojs/starlight";
 import starlightKbd from "starlight-kbd";
 import starlightUtils from "@lorenzo_lewis/starlight-utils";
 import starlightHeadingBadges from "starlight-heading-badges";
+import starlightMarkdownBlocks, { Aside, Draft } from 'starlight-markdown-blocks';
 
 // https://astro.build/config
 export default defineConfig({
@@ -29,6 +30,13 @@ export default defineConfig({
             switcherStyle: "horizontalList",
           },
         }),
+        starlightMarkdownBlocks({
+          blocks: {
+            idea: Aside({ label: "Idea", color: 'green', icon: '💡' }),
+            warning: Aside({ label: "Warning", color: 'orange', icon: '⚠️' }),
+            draft: Draft(),
+          },
+        }),
       ],
       sidebar: [
         {
@@ -52,13 +60,18 @@ export default defineConfig({
             {
               label: "Guides",
               items: [
-                { label: "Keybinds & Commands", link: "docs/guides/keybinds", badge: "Updated" },
+                { label: "Keybinds & Commands", link: "docs/guides/keybinds" },
                 { label: "wLaucnher Installation", link: "docs/guides/wlauncher" },
               ],
             },
             {
               label: "SOPs",
-              items: [{ label: "Law Enforcement", link: "docs/sops/leo" }],
+              items: [
+                { label: "Law Enforcement SOP", link: "docs/sops/leo" },
+                { label: "Emergency Medical Services SOP", link: "docs/sops/ems" },
+                /*{ label: "Fire Department SOP", link: "docs/sops/fire" }, */
+                /*{ label: "Towing SOP", link: "docs/sops/tow" }, */
+              ],
             },
           ],
         },

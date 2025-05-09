@@ -26,6 +26,9 @@ importers:
       starlight-kbd:
         specifier: ^0.2.0
         version: 0.2.0(@astrojs/starlight@0.34.2(astro@5.7.11(rollup@4.40.2)(typescript@5.8.3)))
+      starlight-markdown-blocks:
+        specifier: ^0.1.0
+        version: 0.1.0(@astrojs/starlight@0.34.2(astro@5.7.11(rollup@4.40.2)(typescript@5.8.3)))
     devDependencies:
       typescript:
         specifier: ^5.8.3
@@ -1646,6 +1649,12 @@ packages:
     engines: {node: '>=18.17.1'}
     peerDependencies:
       '@astrojs/starlight': '>=0.32.0'
+
+  starlight-markdown-blocks@0.1.0:
+    resolution: {integrity: sha512-nPnT/eMNIysR+TZGDzNEf9U0NnED+wPgtuPQaoAwrvoyOoNvAPQtvwDTYw3YzoHL0scEaOIh3J0S04cTZ1qk2w==}
+    engines: {node: ^18.17.1 || ^20.3.0 || >=21.0.0}
+    peerDependencies:
+      '@astrojs/starlight': '>=0.32'
 
   stream-replace-string@2.0.0:
     resolution: {integrity: sha512-TlnjJ1C0QrmxRNrON00JvaFFlNh5TTG00APw23j74ET7gkQpTASi6/L2fuiav8pzK715HXtUeClpBTw2NPSn6w==}
@@ -4180,6 +4189,18 @@ snapshots:
   starlight-kbd@0.2.0(@astrojs/starlight@0.34.2(astro@5.7.11(rollup@4.40.2)(typescript@5.8.3))):
     dependencies:
       '@astrojs/starlight': 0.34.2(astro@5.7.11(rollup@4.40.2)(typescript@5.8.3))
+
+  starlight-markdown-blocks@0.1.0(@astrojs/starlight@0.34.2(astro@5.7.11(rollup@4.40.2)(typescript@5.8.3))):
+    dependencies:
+      '@astrojs/starlight': 0.34.2(astro@5.7.11(rollup@4.40.2)(typescript@5.8.3))
+      '@types/mdast': 4.0.4
+      hastscript: 9.0.1
+      mdast-util-directive: 3.1.0
+      mdast-util-to-string: 4.0.0
+      unified: 11.0.5
+      unist-util-visit: 5.0.0
+    transitivePeerDependencies:
+      - supports-color
 
   stream-replace-string@2.0.0: {}
 
