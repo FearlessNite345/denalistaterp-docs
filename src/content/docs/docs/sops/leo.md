@@ -68,6 +68,28 @@ LEOs should use **proportional force** based on suspect behavior, always aiming 
 | **Threat with Weapon (Non-Firearm)**                                 | Firearm Drawn (Do Not Fire Unless Threat Is Imminent) | Maintain distance, give loud commands                     |
 | **Lethal Threat**<br />(e.g., firearm aimed, vehicle used as weapon) | Lethal Force Authorized                               | Must be a direct threat to life of officer or others      |
 
+### **Sonoran CAD – Unit Number Format**
+
+When setting your **Unit Number** in Sonoran CAD, use the following format based on your department. This helps ensure proper unit identification by dispatch and other officers.
+
+**Required Format:**  
+`AREA | UNITNUMBER`  
+*(Set this in the "Unit Number" field in CAD, as shown below)*
+
+![Unit Number Example](/src//assets/unit_number_format.png)
+
+#### Approved Formats by Department:
+
+- `SANDY | ###` – For **Sandy Shores Police Department (SSPD)**
+- `METRO | ###` – For **Los Santos Police Department (LSPD)**
+- `PALETO | ###` – For **Paleto Bay Police Department (PBPD)**
+- `STATE | ###` – For **San Andreas State Troopers (SAST)**
+
+> **Example:** `STATE | 276`  
+> This would represent a State Trooper with unit number 276.
+
+Please make sure you are using the correct format before going on duty.
+
 #### **Guidelines:**
 
 - **De-escalate** whenever possible using voice and presence.
