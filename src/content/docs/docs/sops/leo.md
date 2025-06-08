@@ -76,7 +76,7 @@ When setting your **Unit Number** in Sonoran CAD, use the following format based
 `AREA | UNITNUMBER`  
 *(Set this in the "Unit Number" field in CAD, as shown below)*
 
-![Unit Number Example](/src//assets/unit_number_format.png)
+![Unit Number Example](../../../../assets/unit_number_format.png)
 
 #### Approved Formats by Department:
 
