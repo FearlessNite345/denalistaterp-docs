@@ -60,12 +60,6 @@ export default defineConfig({
               ],
             },
             {
-              label: "Undead Server Information",
-              items: [
-                { label: "Undead Rules", link: "docs/undead/undead_rules" },
-              ],
-            },
-            {
               label: "Guides",
               items: [
                 { label: "Keybinds & Commands", link: "docs/guides/keybinds" },
