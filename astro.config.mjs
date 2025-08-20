@@ -8,14 +8,15 @@ import starlightMarkdownBlocks, {
   Aside,
   Draft,
 } from "starlight-markdown-blocks";
+import starlightThemeRapide from 'starlight-theme-rapide'
 
 // https://astro.build/config
 export default defineConfig({
   integrations: [
     starlight({
-      title: "Fearless Roleplay",
+      title: "Denali State Roleplay",
       logo: {
-        src: "./src/assets/frp.webp",
+        src: "./src/assets/dsrp_temp_logo.png",
       },
       editLink: {
         baseUrl:
@@ -31,7 +32,7 @@ export default defineConfig({
         // @ts-ignore
         starlightUtils({
           multiSidebar: {
-            switcherStyle: "horizontalList",
+            switcherStyle: 'horizontalList'
           },
         }),
         starlightMarkdownBlocks({
@@ -41,6 +42,7 @@ export default defineConfig({
             draft: Draft(),
           },
         }),
+        starlightThemeRapide()
       ],
       sidebar: [
         {
@@ -82,7 +84,7 @@ export default defineConfig({
               ],
             },
           ],
-        },
+        }/* ,
         {
           label: "Penal Code",
           items: [
@@ -563,7 +565,7 @@ export default defineConfig({
               collapsed: true,
             },
           ],
-        },
+        }, */
       ],
       pagination: false,
     }),

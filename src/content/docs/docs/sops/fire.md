@@ -5,7 +5,7 @@ lastUpdated: 2025-05-08
 
 ### **Introduction**
 
-Firefighters in **Fearless Roleplay (FRP)** need to follow a few essential guidelines to ensure efficient and safe responses during emergencies. No extensive specialized training is required—just common sense, quick reaction, and a commitment to following server protocols.
+Firefighters in **Denali State Roleplay (DSRP)** need to follow a few essential guidelines to ensure efficient and safe responses during emergencies. No extensive specialized training is required—just common sense, quick reaction, and a commitment to following server protocols.
 
 :::note
 This SOP is intentionally simple: follow these basic rules and maintain exemplary behavior.

@@ -3,7 +3,7 @@ title: Server Rules & Standards
 lastUpdated: 2025-05-07
 ---
 
-Welcome to **Fearless Roleplay (FRP)** — a community focused on realism, immersion, and respect. These rules exist to uphold the quality of roleplay and ensure every member has a fair and enjoyable experience. By playing on FRP, you agree to follow them.
+Welcome to **Denali State Roleplay (DSRP)** — a community focused on realism, immersion, and respect. These rules exist to uphold the quality of roleplay and ensure every member has a fair and enjoyable experience. By playing on DSRP, you agree to follow them.
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to **Fearless Roleplay (FRP)** — a community focused on realism, immer
 
 ### Age Requirement
 
-- You must be **18 years of age or older** to join and participate in the FRP community.
+- You must be **18 years of age or older** to join and participate in the DSRP community.
 
 ### Respect and Behavior
 
@@ -96,7 +96,7 @@ The following types of content are strictly banned:
 
 - Use **self-promo channels** for sharing your own creative content only.
 - You may post:
-  - Videos, screenshots, or streams from FRP
+  - Videos, screenshots, or streams from DSRP
   - Gaming content not related to other FiveM servers
 - **Advertising other RP servers is strictly prohibited.**
 - Spam or excessive posting may result in content removal or moderation.
@@ -112,6 +112,6 @@ Breaking any of these rules may result in:
 - A **temporary suspension**
 - A **permanent ban**, depending on the severity or repeat offenses
 
-These rules are enforced to protect the quality of the community and uphold fair standards for all. By continuing to play on FRP, you acknowledge and agree to these terms.
+These rules are enforced to protect the quality of the community and uphold fair standards for all. By continuing to play on DSRP, you acknowledge and agree to these terms.
 
 Make your roleplay count.

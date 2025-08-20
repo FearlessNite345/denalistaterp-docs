@@ -5,7 +5,7 @@ lastUpdated: 2025-05-08
 
 ### **Introduction**
 
-EMS in **Fearless Roleplay (FRP)** just need to follow a few basic rules to ensure fair and smooth gameplay. No extensive training is required—just common sense and a willingness to follow the server guidelines.
+EMS in **Denali State Roleplay (DSRP)** just need to follow a few basic rules to ensure fair and smooth gameplay. No extensive training is required—just common sense and a willingness to follow the server guidelines.
 
 :::note
 This SOP is intentionally simple: follow the basic rules and maintain good behavior.

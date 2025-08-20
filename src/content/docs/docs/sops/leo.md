@@ -5,7 +5,7 @@ lastUpdated: 2025-05-08
 
 ### **Introduction**
 
-LEOs in **Fearless Roleplay (FRP)** must follow these rules to ensure fairness, respect, and proper roleplay.
+LEOs in **Denali State Roleplay (DSRP)** must follow these rules to ensure fairness, respect, and proper roleplay.
 
 :::note
 Ensure you are familiar with all server guidelines before beginning your role.
@@ -113,7 +113,7 @@ Repeated violations or severe misconduct may result in permanent disqualificatio
 
 ### **Acknowledgment**
 
-All LEOs must agree to these rules before starting their role in **Fearless Roleplay (FRP)**.
+All LEOs must agree to these rules before starting their role in **Denali State Roleplay (DSRP)**.
 
 :::note
 By continuing, you acknowledge that you have read and understand these SOPs.

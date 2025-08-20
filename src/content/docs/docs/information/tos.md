@@ -7,9 +7,9 @@ lastUpdated: 2025-05-07
 
 ---
 
-## Welcome to FRP
+## Welcome to DSRP
 
-By joining **Fearless Roleplay**, you’re entering an immersive, mature community driven by storytelling, fairness, and respect. These terms are simple: follow them, or you’ll be removed. No second chances for rulebreakers.
+By joining **Denali State Roleplay**, you’re entering an immersive, mature community driven by storytelling, fairness, and respect. These terms are simple: follow them, or you’ll be removed. No second chances for rulebreakers.
 
 If this isn’t for you — no hard feelings. This isn’t your average server.
 
@@ -17,7 +17,7 @@ If this isn’t for you — no hard feelings. This isn’t your average server.
 
 ## Entry Requirements
 
-To be part of FRP, you must:
+To be part of DSRP, you must:
 
 - Be **18+** — no exceptions.
 - Speak and understand **English** fluently.
@@ -41,7 +41,7 @@ We do serious RP. That means:
 
 ## Server Rules
 
-- **Follow all FRP rules and staff instructions.**
+- **Follow all DSRP rules and staff instructions.**
 - **Harassment, racism, and hate speech = immediate ban.**
 - **No exploits, cheating, or glitch abuse.**
 - **Illegal RP stays legal OOC.** No real-world crimes or actions.
@@ -68,23 +68,23 @@ We do serious RP. That means:
 
 ## Branding and Logo Use
 
-- **FRP logos & branding are protected.**
+- **DSRP logos & branding are protected.**
 - You **may not edit or reuse** our logos without approval.
 - OK uses:
   - Stream overlays
   - Personal videos
-  - Fan art that uplifts FRP
+  - Fan art that uplifts DSRP
 - Not OK:
   - Commercial sales
   - Impersonation
-  - Anything that misrepresents FRP
+  - Anything that misrepresents DSRP
 - For **official use**, get written permission from **Joshua L.**
 
 ---
 
 ## Legal Disclaimers
 
-- **FRP is not affiliated** with Rockstar Games, Take-Two Interactive, or FiveM.
+- **DSRP is not affiliated** with Rockstar Games, Take-Two Interactive, or FiveM.
 - We are a community project — **use at your own risk**.
 - We’re not responsible for **data loss or technical issues**.
 
@@ -99,6 +99,6 @@ We do serious RP. That means:
 
 ## Final Word
 
-By playing on FRP, you’re part of something bigger — a curated, story-driven roleplay experience for adults who care about quality. Respect the space. Respect each other.
+By playing on DSRP, you’re part of something bigger — a curated, story-driven roleplay experience for adults who care about quality. Respect the space. Respect each other.
 
 See you in the city.
