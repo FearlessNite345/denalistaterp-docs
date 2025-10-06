@@ -62,6 +62,20 @@ export default defineConfig({
               ],
             },
             {
+              label: "Helpful Information",
+              items: [
+                {
+                  label: "CIV Quick Reference",
+                  link: "docs/helpful_information/civ_quick_reference",
+                },
+                {
+                  label: "LEO Quick Reference",
+                  link: "docs/helpful_information/leo_quick_reference",
+                },
+                /* { label: "Fire & Rescue Quick Reference", link: "docs/helpful_information/fire_rescue_quick_reference" }, */
+              ],
+            },
+            {
               label: "Guides",
               items: [
                 { label: "Keybinds & Commands", link: "docs/guides/keybinds" },
@@ -74,11 +88,15 @@ export default defineConfig({
             {
               label: "SOPs",
               items: [
-                { label: "Law Enforcement SOP", link: "docs/sops/leo" },
                 {
+                  label: "Law Enforcement SOP",
+                  link: "docs/sops/leo",
+                  attrs: {"aria-busy": 'true'}
+                },
+                /*                 {
                   label: "Emergency Medical Services SOP",
                   link: "docs/sops/ems",
-                },
+                }, */
                 /*{ label: "Fire Department SOP", link: "docs/sops/fire" }, */
                 /*{ label: "Towing SOP", link: "docs/sops/tow" }, */
               ],
