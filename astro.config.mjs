@@ -91,7 +91,6 @@ export default defineConfig({
                 {
                   label: "Law Enforcement SOP",
                   link: "docs/sops/leo",
-                  attrs: {"aria-busy": 'true'}
                 },
                 /*                 {
                   label: "Emergency Medical Services SOP",
