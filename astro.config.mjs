@@ -83,6 +83,10 @@ export default defineConfig({
                   label: "wLaucnher Installation",
                   link: "docs/guides/wlauncher",
                 },
+                {
+                  label: "LEO Uniform Reference Guide",
+                  link: "docs/guides/leo_uni_ref_guide",
+                },
               ],
             },
             {
