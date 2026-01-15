@@ -96,6 +96,10 @@ export default defineConfig({
                   label: "Law Enforcement SOP",
                   link: "docs/sops/leo",
                 },
+                {
+                  label: "Fire & EMS SOP",
+                  link: "docs/sops/ems_fire"
+                }
                 /*                 {
                   label: "Emergency Medical Services SOP",
                   link: "docs/sops/ems",
