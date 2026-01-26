@@ -32,8 +32,8 @@ export default defineConfig({
         // @ts-ignore
         starlightUtils({
           multiSidebar: {
-            switcherStyle: "horizontalList",
-          },
+            switcherStyle: "hidden"
+          }
         }),
         starlightMarkdownBlocks({
           blocks: {
@@ -107,56 +107,6 @@ export default defineConfig({
                 /*{ label: "Fire Department SOP", link: "docs/sops/fire" }, */
                 /*{ label: "Towing SOP", link: "docs/sops/tow" }, */
               ],
-            },
-          ],
-        },
-        {
-          label: "Penal Code",
-          items: [
-            {
-              label: "Section 100",
-              autogenerate: { directory: "penal_code/Section 100" },
-              collapsed: true,
-            },
-            {
-              label: "Section 200",
-              autogenerate: { directory: "penal_code/Section 200" },
-              collapsed: true,
-            },
-            {
-              label: "Section 300",
-              autogenerate: { directory: "penal_code/Section 300" },
-              collapsed: true,
-            },
-            {
-              label: "Section 400",
-              autogenerate: { directory: "penal_code/Section 400" },
-              collapsed: true,
-            },
-            {
-              label: "Section 500",
-              autogenerate: { directory: "penal_code/Section 500" },
-              collapsed: true,
-            },
-            {
-              label: "Section 600",
-              autogenerate: { directory: "penal_code/Section 600" },
-              collapsed: true,
-            },
-            {
-              label: "Section 700",
-              autogenerate: { directory: "penal_code/Section 700" },
-              collapsed: true,
-            },
-            {
-              label: "Section 800",
-              autogenerate: { directory: "penal_code/Section 800" },
-              collapsed: true,
-            },
-            {
-              label: "Section 900",
-              autogenerate: { directory: "penal_code/Section 900" },
-              collapsed: true,
             },
           ],
         },
